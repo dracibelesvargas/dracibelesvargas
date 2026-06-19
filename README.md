@@ -3,7 +3,7 @@
   🔬 Transitioning from IT Project Management to Bioinformatics & Data Science
   🎓 Currently pursuing a B.Sc. in Biomedicine — bridging 12 years in IT with the life sciences
   💡 Applying data, programming and analytical skills to biology, health and biomedicine
-  📍 São Paulo, Brazil
+  📍 Florianópolis, Brazil
 
   ---
 
