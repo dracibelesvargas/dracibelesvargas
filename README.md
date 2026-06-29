@@ -1,13 +1,13 @@
  ### Hi, I'm Cibele de Vargas 👋
 
-  🔬 Transitioning from IT Project Management to Bioinformatics & Data Science
-  🎓 Currently pursuing a B.Sc. in Biomedicine - bridging 12 years in IT with the life sciences
-  💡 Applying data, programming and analytical skills to biology, health and biomedicine
-  📍 Florianópolis, Brazil
+- Transitioning from IT Project Management to Bioinformatics & Data Science
+- Currently pursuing a B.Sc. in Biomedicine - bridging 12 years in IT with the life sciences
+- Applying data, programming and analytical skills to biology, health and biomedicine
+📍 Florianópolis, Brazil
 
   ---
 
-  ## 🧬 About me
+  ## About me
 
   I'm an IT professional with 12 years of experience in project management, systems
   analysis and requirements engineering, now redirecting my career toward
@@ -23,18 +23,18 @@
   training with the data, programming and analytical thinking I built over more than a
   decade in IT - exactly the intersection where bioinformatics lives.
 
-  ## 🛠️ Tools & skills
+  ## Tools & skills
 
   - **Languages:** R, Python _(learning)_, SQL
   - **Bioinformatics:** Bioconductor, transcriptomics _(in progress)_
   - **Data:** data modeling, integration (ERP/SAP), analysis
   - **Other:** Git & GitHub, project management
 
-  ## 📂 Featured project
+  ## Featured project
 
   - [**Portfolio - Bioinformatics**](https://github.com/dracibelesvargas/portfolio-bioinformatica) - projects in data science, NGS/genomics, 
   tool development and structural biology.
 
-  ## 📫 Contact
+  ## Contact
 
   - 📧 dracibelesvargas@gmail.com
